@@ -1,0 +1,1 @@
+Alex's zsh configuration.
