@@ -30,6 +30,3 @@ export VISUAL=nvim
 
 # Enable vi mode in ZSH
 bindkey -v
-
-# TERM
-export TERM="xterm-256color"
